@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.registration-image {
+  width: 300px;
+  height: 300px;
+}
+
+.registration-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  width: 800px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #64748b;
+}
+
+.registration-button {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #0967d2;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.registration-close-image {
+  width: 300px;
+  height: 300px;
+}
+
+.registration-close-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  color: #323f4b;
+  text-align: center;
+}
+
+.registration-close-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #323f4b;
+  text-align: center;
+}
+
+.registered {
+  width: 150px;
+  height: 150px;
+}
+
+.registered-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  color: #323f4b;
+  text-align: center;
+}
+
+.no-result {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+  color: #323f4b;
+  text-align: center;
+}
